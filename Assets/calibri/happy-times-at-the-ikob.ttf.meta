@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1a9e7132811d7ac408d4506a47909f3f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Happy Times at the IKOB
+  fontNames:
+  - Happy Times at the IKOB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0c77bdf861d5df0488d557cab05c831e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

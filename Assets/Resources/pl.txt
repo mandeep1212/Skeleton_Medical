@@ -1,0 +1,95 @@
+{
+	"productlist": [{
+		"productId": 23,
+		"englishProductName": "cemented screws",
+		"enUniqueIdForSkeleton": 1,
+		"spanishProductName": "tornillos cementados",
+		"englishProductDescription": "Enter Description",
+		"spanishProductDescription": "Introdudsfr descripcidsfn",
+		"attachments": [{
+			"attachmentId": 91,
+			"attachmentName": "download (26).jpg",
+			"attachmentType": "image/jpeg",
+			"enDescription": "",
+			"spDescription": "",
+			"serialNumber": 2
+		}, {
+			"attachmentId": 91,
+			"attachmentName": "download (26).jpg",
+			"attachmentType": "image/jpeg",
+			"enDescription": "",
+			"spDescription": "",
+			"serialNumber": 2
+		}],
+		"productType": {
+			"productTypeId": 11,
+			"enUniqueIdForSkeleton": 1,
+			"enProductCategoryUniqueIdForSkeletion": 1,
+			"englishProductType": "Lumbar fixation",
+			"spanishProductType": "Fijacion lumbar",
+			"productCategory": {
+				"productCategoryId": 5,
+				"enUniqueIdForSkeleton": 1,
+				"englishProductCategory": "spine",
+				"spanishProductCategory": "Columna Vertebral",
+				"youtubeUrl": "",
+				"pic": "",
+				"englishProductCategoryDescription": "",
+				"spanishProductCategoryDescription": ""
+			},
+			"youtubeUrl": "",
+			"englishProductTypeDescription": "",
+			"spanishProductTypeDescription": "",
+			"pic": ""
+		},
+		"youtubeUrl": "",
+		"enProductTypeUniqueIdForSkeletion": 1,
+		"status": true
+	}, {
+		"productId": 23,
+		"englishProductName": "cemented screws",
+		"enUniqueIdForSkeleton": 1,
+		"spanishProductName": "tornillos cementados",
+		"englishProductDescription": "Enter Description",
+		"spanishProductDescription": "dfdsfsdfsdf",
+		"attachments": [{
+			"attachmentId": 91,
+			"attachmentName": "download (26).jpg",
+			"attachmentType": "image/jpeg",
+			"enDescription": "",
+			"spDescription": "",
+			"serialNumber": 2
+		}, {
+			"attachmentId": 91,
+			"attachmentName": "download (26).jpg",
+			"attachmentType": "image/jpeg",
+			"enDescription": "",
+			"spDescription": "",
+			"serialNumber": 2
+		}],
+		"productType": {
+			"productTypeId": 11,
+			"enUniqueIdForSkeleton": 1,
+			"enProductCategoryUniqueIdForSkeletion": 1,
+			"englishProductType": "Lumbar fixation",
+			"spanishProductType": "Fijacion lumbar",
+			"productCategory": {
+				"productCategoryId": 5,
+				"enUniqueIdForSkeleton": 1,
+				"englishProductCategory": "spine",
+				"spanishProductCategory": "Columna Vertebral",
+				"youtubeUrl": "",
+				"pic": "",
+				"englishProductCategoryDescription": "",
+				"spanishProductCategoryDescription": ""
+			},
+			"youtubeUrl": "",
+			"englishProductTypeDescription": "",
+			"spanishProductTypeDescription": "",
+			"pic": ""
+		},
+		"youtubeUrl": "",
+		"enProductTypeUniqueIdForSkeletion": 1,
+		"status": true
+	}]
+}
